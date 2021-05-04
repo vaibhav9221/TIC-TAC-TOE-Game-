@@ -11,6 +11,8 @@ We are going to build a two-player tic-tac-toe game, which we can play in the GU
 # To Run the Game
 python main.py
 
+# sample images
+![pngwing com (1)](https://user-images.githubusercontent.com/59912875/116995073-37eb5000-acf7-11eb-845c-5c9b6eebf470.png)
 
 
 # Feedback & Final Thoughts
@@ -19,4 +21,4 @@ so if you tend to find any bug fixes,
 feature requests, pull requests, feedback, etc., are welcome... 
 If you like this project, please do give it a star.
 
-https://www.pngwing.com/2d98d90f-c198-4fa4-a2d1-71e14a92b41c
+
